@@ -1,4 +1,4 @@
-#WARNING: EXPERIMENTAL (FORCED)
+# WARNING: EXPERIMENTAL (FORCED)
 
 From [JetBrains](https://www.jetbrains.com/lp/mono/), where you can get the all the variants of the font itself
 
