@@ -1,5 +1,7 @@
 # WARNING: EXPERIMENTAL (FORCED) (doesn't work)
 
+I'll try to fix it at some point
+
 From [JetBrains](https://www.jetbrains.com/lp/mono/), where you can get the all the variants of the font itself
 
 ## Install Guide
