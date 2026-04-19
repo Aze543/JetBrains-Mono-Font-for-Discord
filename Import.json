@@ -3,6 +3,24 @@
     "name": "JetBrains Mono - A Typeface for Developers",
     "previewText": "The easier the forms, the faster the eye perceives them and the less effort the brain needs to process them.",
     "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Black.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Bold_Italic.ttf?raw=1",  
+        "ggsans-ExtraBold": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Extra_Bold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Extra_Bold_Italic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Medium_Italic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Italic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Semi_Bold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Semi_Bold_Italic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Extra_Bold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Semi_Bold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/Aze543/JetBrains-Mono-Font-for-Discord/raw/refs/heads/main/JetbrainsMonoFont/Semi_Bold_Italic.ttf?raw=1"
         
     }
 }
